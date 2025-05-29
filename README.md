@@ -1,40 +1,34 @@
-# 👋 Bienvenido a NucleoIA-labs
+# 🤖 Bot de Trading Automático – Proyecto NucleoIA-Labs
 
-💡 Somos un núcleo de desarrollo enfocado en inteligencia artificial aplicada a proyectos reales, automatización y agentes inteligentes con impacto directo en productividad, educación y finanzas.
-
----
-
-### 🚀 Proyectos Destacados
-
-| Proyecto | Descripción |
-|----------|-------------|
-| [🧠 Minty Assistant](https://github.com/IntraCoreAI/minty-assistant) *(en desarrollo)* | Asistente personal inteligente para gestión diaria, recordatorios y foco. |
-| [📈 Bot Trading Automático](https://github.com/IntraCoreAI/bot-trading-automatico) *(privado)* | Bot de inversión automatizado con estrategias ajustables y análisis de mercado. |
-| [🎨 Libros para Colorear con IA](https://github.com/IntraCoreAI/ingresos-pasivos-automatizados) | Automatización para la creación y publicación de libros infantiles. |
-| [⚽ Análisis IA Fútbol](https://github.com/IntraCoreAI/agente-futbol-ia) *(beta)* | Sistema de análisis táctico de partidos con IA. |
+Bienvenido al repositorio oficial del **Bot de Trading Automático**, desarrollado por **NucleoIA-Labs**. Este proyecto representa la visión de construir un sistema inteligente, modular, escalable y seguro capaz de ejecutar estrategias de inversión automatizadas en diferentes mercados financieros (ETFs, criptomonedas, acciones, etc.).
 
 ---
 
-### 🧩 ¿Qué hacemos?
+## 🌍 Visión General
 
-- Diseño y automatización de flujos con n8n, Make y APIs propias.
-- Creación de agentes conversacionales para productividad, contenido y automatización.
-- Investigación aplicada en IA generativa (texto, imagen, lógica).
-- Estrategias de monetización desde el día uno.
+El objetivo principal es crear un agente autónomo capaz de:
 
----
+- Analizar datos históricos y actuales de mercado.
+- Ejecutar operaciones en modo simulado (paper trading) o real.
+- Adaptarse a distintas estrategias y condiciones del mercado.
+- Integrar noticias económicas, IA y análisis técnico para la toma de decisiones.
+- Generar informes y métricas personalizadas para el usuario.
 
-### 🛠 Tecnologías que usamos
-
-`Python` · `n8n` · `Make` · `GPT APIs` · `Leonardo.AI` · `GitHub Actions` · `Google Cloud` · `Linux`
-
----
-
-### 🤝 Colabora o síguenos
-
-Actualmente estamos en fase activa de desarrollo.  
-Puedes ver nuestro progreso en los repositorios públicos y colaborar desde issues o forks.
+> 📌 Este repositorio sirve como núcleo central del proyecto y portafolio profesional de desarrollo de IA aplicada a inversiones.
 
 ---
 
-**Hecho con pasión por la IA y las ideas que transforman.**
+## 🧠 Características Principales
+
+- 📈 **Estrategias automatizadas**: media móvil, RSI, MACD, y personalizables.
+- 🧪 **Modo Paper Trading**: operaciones simuladas sin riesgo real.
+- 📰 **Análisis de noticias económicas**: integración con fuentes relevantes.
+- 📊 **Visualización y estadísticas**: gráficos en tiempo real, informes de PnL.
+- 🔐 **Privacidad y Seguridad**: ejecución local, sin compartir datos sensibles.
+- 🔁 **Automatización diaria**: ejecución programada (GitHub Actions, cron, etc.).
+- 📦 **Módulos desacoplados**: análisis, ejecución, logging, y monitoreo separados.
+
+---
+
+## 🧱 Estructura del Proyecto
+
