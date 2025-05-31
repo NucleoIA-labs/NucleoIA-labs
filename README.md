@@ -1,79 +1,51 @@
-# 🧠 NucleoIA-labs
+# Documentación Extendida – NucleoIA-labs
 
-**NucleoIA-labs** es una iniciativa independiente orientada a la creación, automatización y optimización de proyectos basados en inteligencia artificial, automatización de flujos de trabajo y desarrollo digital. Este repositorio sirve como núcleo de documentación y coordinación del proyecto.
+Bienvenido al repositorio de documentación técnica de **NucleoIA-labs**, un ecosistema de proyectos impulsados por IA, automatización, diseño y estrategia digital.
 
----
-
-## 🌟 Visión del Proyecto
-
-Crear una infraestructura sólida, profesional y escalable que permita:
-- Desarrollar agentes inteligentes y automatizaciones funcionales.
-- Aplicar IA a problemas reales (negocios, creatividad, productividad).
-- Publicar, monetizar y presentar estos proyectos como parte de un portafolio.
-
----
-
-## 📁 Estructura del Repositorio
+## 📁 Estructura del Proyecto
 
 ```
-📂 docs/                   → Documentación técnica y operativa
-📂 media/                  → Imágenes, logos y recursos visuales
-📂 templates/              → Archivos base y plantillas reutilizables
-📄 README.md               → Esta presentación del proyecto
-📄 LICENSE                 → Licencia del repositorio
+📦 NucleoIA-labs
+├── 📄 README.md             # Descripción general del proyecto
+├── 📁 docs                  # Documentación extendida
+│   ├── roadmap.md          # Planificación y fases del proyecto
+│   ├── estructura.md       # Estructura técnica y carpetas
+│   ├── automatizaciones.md # Flujos creados con Make/n8n
+│   ├── presupuesto.md      # Costes y servicios
+│   └── redes_sociales.md   # Estrategia y automatización de publicaciones
+├── 📁 assets                # Imágenes, logos y material gráfico
+├── 📁 publicaciones         # Contenido y recursos compartidos públicamente
+└── 📁 scripts               # Scripts de instalación/configuración
 ```
 
----
+## 📌 Objetivos del Proyecto
 
-## 📌 Componentes Principales
+- Desarrollar un ecosistema digital profesional desde cero
+- Automatizar la creación de contenido, la gestión financiera y la comunicación
+- Usar herramientas accesibles para crear un flujo de trabajo sostenible
+- Documentar el proceso con calidad profesional para posibles inversores o colaboradores
 
-- **Documentación** técnica y estratégica
-- **Tablas de control** financiero, publicaciones y planificación
-- **Automatizaciones** (Make, Google Sheets, Email, RRSS)
-- **Planificación avanzada** (Google Calendar + seguimiento)
+## 🚧 Estado Actual
 
----
+- Sitio web principal creado y funcionando ✅
+- Correos corporativos configurados ✅
+- Repositorio GitHub con estructura y README profesional ✅
+- Sistema de automatización con Make funcionando (envío de emails) ✅
+- Hojas de seguimiento y finanzas integradas con Google Sheets ✅
+- Próximo paso: documentación extendida y estructura wiki 🚀
 
-## 🔧 Tecnologías y Herramientas
+## 🔐 Consideraciones de Privacidad
 
-| Categoría       | Herramienta                  |
-|----------------|------------------------------|
-| Automatización | Make (ex Integromat)         |
-| IA / Contenido | GPT-4 / Ideogram / Google AI |
-| Control de código | GitHub                     |
-| Gestión visual | Google Sheets / Docs         |
-| Hosting / Web  | SiteGround + WordPress       |
+- Las facturas, hojas de cálculo sensibles y configuraciones privadas **no** se subirán al repositorio público.
+- Toda información privada se gestionará en cuentas protegidas (Google Drive, GitHub privado si aplica).
 
----
+## 🔗 Recursos Relacionados
 
-## 📊 Estado Actual
-
-- ✅ Fase 1 completa (estructura, automatizaciones iniciales)
-- 🔄 Fase 2 en marcha (RRSS, contenidos, seguimiento)
-- ⏳ Fase 3 (web pública, expansión de automatizaciones, IA aplicada)
-
----
-
-## 📅 Calendario
-
-El calendario general de ejecución está implementado en Google Calendar y se actualiza según las fases y prioridades del proyecto. Disponible a demanda.
+- [Hoja de gastos en Google Sheets](ENLACE_A_INSERTAR)
+- [Canal de YouTube](https://www.youtube.com/)
+- [Repositorio principal en GitHub](https://github.com/)
+- [Sitio web oficial](https://nucleoia-labs.com)
 
 ---
 
-## 📬 Contacto
-
-Puedes contactarnos desde:
-- 📧 Email: [hola@nucleoia-labs.com](mailto:hola@nucleoia-labs.com)
-- 🌐 Web (en desarrollo): [nucleoia-labs.com](https://nucleoia-labs.com)
-
----
-
-## 🤝 Contribución
-
-Aunque el proyecto está en fase personal/fundacional, se aceptan ideas, mejoras y revisiones. Puedes abrir un issue o enviar un mensaje directo.
-
----
-
-## 📝 Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más información.
+> Si deseas contribuir, por favor consulta la sección `CONTRIBUTING.md` próximamente disponible.
