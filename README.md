@@ -1,51 +1,73 @@
-# Documentación Extendida – NucleoIA-labs
+# 📘 Documentación Extendida – NucleoIA-labs
+
+![NucleoIA-labs Logo](docs/assets/logo.png)
+
+[![Estado](https://img.shields.io/badge/estado-en%20desarrollo-blue)]()
+[![Última actualización](https://img.shields.io/badge/actualizado-mayo%202025-success)]()
+[![Repositorio público](https://img.shields.io/badge/repositorio-p%C3%BAblico-brightgreen)]()
+
+---
 
 Bienvenido al repositorio de documentación técnica de **NucleoIA-labs**, un ecosistema de proyectos impulsados por IA, automatización, diseño y estrategia digital.
 
-## 📁 Estructura del Proyecto
+---
 
-```
-📦 NucleoIA-labs
-├── 📄 README.md             # Descripción general del proyecto
-├── 📁 docs                  # Documentación extendida
+## 🧱 Estructura del Proyecto
+
+```plaintext
+NucleoIA-labs/
+├── README.md               # Descripción general del proyecto
+├── docs/                   # Documentación extendida
 │   ├── roadmap.md          # Planificación y fases del proyecto
 │   ├── estructura.md       # Estructura técnica y carpetas
 │   ├── automatizaciones.md # Flujos creados con Make/n8n
 │   ├── presupuesto.md      # Costes y servicios
-│   └── redes_sociales.md   # Estrategia y automatización de publicaciones
-├── 📁 assets                # Imágenes, logos y material gráfico
-├── 📁 publicaciones         # Contenido y recursos compartidos públicamente
-└── 📁 scripts               # Scripts de instalación/configuración
+│   ├── redes_sociales.md   # Estrategia y automatización de publicaciones
+│   └── ...
+├── assets/                 # Imágenes, logos y material gráfico
+├── publicaciones/          # Contenido y recursos compartidos públicamente
+└── scripts/                # Scripts de instalación/configuración
 ```
 
-## 📌 Objetivos del Proyecto
+---
+
+## 🎯 Objetivos del Proyecto
 
 - Desarrollar un ecosistema digital profesional desde cero
 - Automatizar la creación de contenido, la gestión financiera y la comunicación
 - Usar herramientas accesibles para crear un flujo de trabajo sostenible
 - Documentar el proceso con calidad profesional para posibles inversores o colaboradores
-
-## 🚧 Estado Actual
-
-- Sitio web principal creado y funcionando ✅
-- Correos corporativos configurados ✅
-- Repositorio GitHub con estructura y README profesional ✅
-- Sistema de automatización con Make funcionando (envío de emails) ✅
-- Hojas de seguimiento y finanzas integradas con Google Sheets ✅
-- Próximo paso: documentación extendida y estructura wiki 🚀
-
-## 🔐 Consideraciones de Privacidad
-
-- Las facturas, hojas de cálculo sensibles y configuraciones privadas **no** se subirán al repositorio público.
-- Toda información privada se gestionará en cuentas protegidas (Google Drive, GitHub privado si aplica).
-
-## 🔗 Recursos Relacionados
-
-- [Hoja de gastos en Google Sheets](ENLACE_A_INSERTAR)
-- [Canal de YouTube](https://www.youtube.com/)
-- [Repositorio principal en GitHub](https://github.com/)
-- [Sitio web oficial](https://nucleoia-labs.com)
+- Servir como base para futuros proyectos de IA, automatización y productividad
 
 ---
 
-> Si deseas contribuir, por favor consulta la sección `CONTRIBUTING.md` próximamente disponible.
+## 🔄 Flujo de Trabajo Actual
+
+```plaintext
+Google Sheets (nuevas filas) 
+     └──> Filtro (solo "Pendiente")
+           └──> Enviar Email (HTML)
+                 └──> Actualizar fila a "Programada"
+```
+
+> ⚙️ Automatizado con **Make** y conectado a **Gmail SMTP personalizado**
+
+---
+
+## 🔗 Recursos y Accesos Rápidos
+
+- [📌 Roadmap del Proyecto](docs/roadmap.md)
+- [📁 Estructura Técnica](docs/estructura.md)
+- [⚙️ Automatizaciones](docs/automatizaciones.md)
+- [💰 Presupuesto Inicial](docs/presupuesto.md)
+- [📲 Plan de Redes Sociales](docs/redes_sociales.md)
+- [🎨 Logos y Marca](assets/)
+
+---
+
+## 📬 Contacto
+
+**NucleoIA-labs** – España  
+Desarrollo e innovación en IA, automatización y productividad
+
+> _Repositorio mantenido por el equipo fundador. Ideas, sugerencias y contribuciones son siempre bienvenidas._
