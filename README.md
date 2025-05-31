@@ -1,41 +1,79 @@
+# 🧠 NucleoIA-labs
 
-# 👋 Bienvenido a NucleoIA-labs
-
-💡 Somos un núcleo de desarrollo enfocado en inteligencia artificial aplicada a proyectos reales, automatización y agentes inteligentes con impacto directo en productividad, educación y finanzas.
-
----
-
-## 🚀 Proyectos Destacados
-
-| Proyecto | Descripción |
-|----------|-------------|
-| 🧠 **Minty Assistant** *(en desarrollo)* | Asistente personal inteligente para gestión diaria, recordatorios y foco. |
-| 📊 **Bot Trading Automático** *(privado)* | Bot de inversión automatizado con estrategias ajustables y análisis de mercado. |
-| 🎨 **Libros para Colorear con IA** | Automatización para la creación y publicación de libros infantiles. |
-| ⚽ **Análisis IA Fútbol** *(beta)* | Sistema de análisis táctico de partidos con IA. |
+**NucleoIA-labs** es una iniciativa independiente orientada a la creación, automatización y optimización de proyectos basados en inteligencia artificial, automatización de flujos de trabajo y desarrollo digital. Este repositorio sirve como núcleo de documentación y coordinación del proyecto.
 
 ---
 
-## ❓ ¿Qué hacemos?
+## 🌟 Visión del Proyecto
 
-- Diseño y automatización de flujos con n8n, Make y APIs propias.
-- Creación de agentes conversacionales para productividad, contenido y automatización.
-- Investigación aplicada en IA generativa (texto, imagen, lógica).
-- Estrategias de monetización desde el día uno.
-
----
-
-## 🧰 Tecnologías que usamos
-
-`Python` · `n8n` · `Make` · `GPT APIs` · `Leonardo.AI` · `GitHub Actions` · `Google Cloud` · `Linux`
+Crear una infraestructura sólida, profesional y escalable que permita:
+- Desarrollar agentes inteligentes y automatizaciones funcionales.
+- Aplicar IA a problemas reales (negocios, creatividad, productividad).
+- Publicar, monetizar y presentar estos proyectos como parte de un portafolio.
 
 ---
 
-## 🤝 Colabora o síguenos
+## 📁 Estructura del Repositorio
 
-Actualmente estamos en fase activa de desarrollo.  
-Puedes ver nuestro progreso en los repositorios públicos y colaborar desde issues o forks.
+```
+📂 docs/                   → Documentación técnica y operativa
+📂 media/                  → Imágenes, logos y recursos visuales
+📂 templates/              → Archivos base y plantillas reutilizables
+📄 README.md               → Esta presentación del proyecto
+📄 LICENSE                 → Licencia del repositorio
+```
 
 ---
 
-**Hecho con pasión por la IA y las ideas que transforman.**
+## 📌 Componentes Principales
+
+- **Documentación** técnica y estratégica
+- **Tablas de control** financiero, publicaciones y planificación
+- **Automatizaciones** (Make, Google Sheets, Email, RRSS)
+- **Planificación avanzada** (Google Calendar + seguimiento)
+
+---
+
+## 🔧 Tecnologías y Herramientas
+
+| Categoría       | Herramienta                  |
+|----------------|------------------------------|
+| Automatización | Make (ex Integromat)         |
+| IA / Contenido | GPT-4 / Ideogram / Google AI |
+| Control de código | GitHub                     |
+| Gestión visual | Google Sheets / Docs         |
+| Hosting / Web  | SiteGround + WordPress       |
+
+---
+
+## 📊 Estado Actual
+
+- ✅ Fase 1 completa (estructura, automatizaciones iniciales)
+- 🔄 Fase 2 en marcha (RRSS, contenidos, seguimiento)
+- ⏳ Fase 3 (web pública, expansión de automatizaciones, IA aplicada)
+
+---
+
+## 📅 Calendario
+
+El calendario general de ejecución está implementado en Google Calendar y se actualiza según las fases y prioridades del proyecto. Disponible a demanda.
+
+---
+
+## 📬 Contacto
+
+Puedes contactarnos desde:
+- 📧 Email: [hola@nucleoia-labs.com](mailto:hola@nucleoia-labs.com)
+- 🌐 Web (en desarrollo): [nucleoia-labs.com](https://nucleoia-labs.com)
+
+---
+
+## 🤝 Contribución
+
+Aunque el proyecto está en fase personal/fundacional, se aceptan ideas, mejoras y revisiones. Puedes abrir un issue o enviar un mensaje directo.
+
+---
+
+## 📝 Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más información.
