@@ -1,0 +1,44 @@
+
+# Entorno Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+
+# Entorno virtual
+venv/
+.env
+*.env
+.env.*
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+
+# node.js / n8n / Make
+node_modules/
+*.n8n_backup.json
+.n8n/
+output.log
+
+# Otros
+*.sqlite
+*.db
+*.csv
+*.pdf
