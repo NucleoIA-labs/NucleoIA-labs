@@ -1,104 +1,98 @@
-# **NucleoIA-labs**
+# 🚀 NucleoIA-labs · Ecosistema Inteligente de Automatización y Agentes IA
 
-Innovación en Inteligencia Artificial, Automatización y Productividad
+**NucleoIA-labs** es un laboratorio digital que impulsa el desarrollo de herramientas inteligentes, automatizaciones, agentes de IA y contenido multicanal con enfoque profesional. Nuestra misión es transformar ideas complejas en soluciones reales, accesibles y escalables para personas y empresas.
 
----
-
-### NucleoIA-labs: Impulsando el Futuro de la IA y la Automatización
-
-**NucleoIA-labs** es el centro de **innovación digital** que reúne proyectos punteros en el ámbito de la **inteligencia artificial**, **automatización** y **optimización de procesos**. A través de soluciones tecnológicas avanzadas y fáciles de implementar, transformamos tareas complejas en soluciones automatizadas que ahorran tiempo, recursos y mejoran la productividad.
-
-Con el compromiso de ser un referente global en el uso de IA y automatización, nuestros proyectos están diseñados para emprendedores, desarrolladores y empresas que buscan optimizar sus procesos y aumentar su competitividad en un mundo digital en constante evolución.
+> 🧠 Inteligencia + ⚙️ Automatización + 🎯 Enfoque estratégico = Resultados reales
 
 ---
 
-## 🧑‍💻 **Proyectos Destacados**
+## 🌐 ¿Qué es NucleoIA-labs?
 
-NucleoIA-labs alberga proyectos revolucionarios que impulsan **la productividad y la innovación**. Aquí podrás encontrar ejemplos de **soluciones listas para ser implementadas** y desarrollos continuos que están cambiando la manera de trabajar. Explora cada uno de ellos e **ínete a nuestra comunidad de creadores**.
+Un ecosistema modular de proyectos interconectados, centrado en:
 
-### 1. **NucleoIA-labs-Core**
-   El **corazón** de la IA y la automatización.
+- 🤖 **Agentes de IA personalizados**
+- 🔁 **Automatización de procesos complejos**
+- 📊 **Bots inteligentes y análisis de datos**
+- 📚 **Contenido educativo y creativo asistido por IA**
+- 💼 **Aplicaciones orientadas a productividad y monetización**
 
-   [Repositorio NucleoIA-labs-Core](https://github.com/NucleoIA-labs/NucleoIA-labs-Core)
-
-### 2. **Bot Trading**
-   **Automatización de trading con IA**
-
-   [Repositorio Bot Trading](https://github.com/NucleoIA-labs/Bot-Trading)
-
-### 3. **Agente Futbol IA**
-   **Agente Inteligente para análisis deportivo**
-
-   [Repositorio Agente Futbol IA](https://github.com/NucleoIA-labs/Agente-Futbol-IA)
-
-### 4. **Ingresos Pasivos Automatizados**
-   **Generación de ingresos sin intervención manual**
-
-   [Repositorio Ingresos Pasivos Automatizados](https://github.com/NucleoIA-labs/Ingresos-Pasivos-Automatizados)
-
-### 5. **Automatización del Hogar (IoT)**
-   **Gestión de hogar inteligente**
-
-   [Repositorio Home Automation](https://github.com/NucleoIA-labs/Home-Automation)
+Cada módulo está desarrollado con estándares profesionales, documentación clara y visión de futuro.
 
 ---
 
-## 🚀 **Cómo Empezar**
+## 🧩 Proyectos en desarrollo
 
-Para empezar a usar, contribuir o colaborar en nuestros proyectos, sigue los pasos a continuación:
+Estos son los repositorios activos que forman parte del ecosistema NucleoIA-labs:
 
-1. **Clona este repositorio:**
-
-   ```bash
-   git clone https://github.com/NucleoIA-labs/NucleoIA-labs.git
-   cd NucleoIA-labs
-   ```
-
-2. **Instala dependencias:**
-
-   Asegúrate de tener instalado Python y `pip`. Luego, ejecuta:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Ejecuta el proyecto:**
-
-   Sigue las instrucciones específicas para cada proyecto dentro de su repositorio.
+| Proyecto | Descripción | Repositorio |
+|---------|-------------|-------------|
+| 🔄 **Bot de Trading Automático** | Análisis de mercado, ejecución de órdenes, aprendizaje continuo, análisis técnico y fundamental. | [Ver repositorio](https://github.com/NucleoIA-labs/bot-trading) |
+| 🎨 **Libros para Colorear con IA** | Sistema automatizado para generar libros infantiles y adultos listos para KDP usando IA y n8n. | [Ver repositorio](https://github.com/NucleoIA-labs/coloring-books-automation) |
+| 🧠 **Minty Assistant** | Asistente de IA personalizado que organiza tareas, proyectos y recordatorios con lógica contextual. | [Ver repositorio](https://github.com/NucleoIA-labs/minty-assistant) |
+| ⚽ **Análisis IA Fútbol** | Agente de IA para análisis táctico automático de partidos en vídeo. Ideal para clubes y entrenadores. | [Ver repositorio](https://github.com/NucleoIA-labs/football-ai-analysis) |
+| 🧱 **Agente IA Impresión 3D** | Analiza archivos STL y genera perfiles de impresión óptimos según máquina y filamento. | [Ver repositorio](https://github.com/NucleoIA-labs/3dprint-ai-agent) |
+| 📲 **Sistema de Automatización de Contenido** | Publicaciones automáticas para blog, YouTube, Telegram y redes sociales. | [Ver repositorio](https://github.com/NucleoIA-labs/content-automation-system) |
+| 💡 **Núcleo de Ideas + Investigación** | Banco de ideas, prototipos, validación de nuevos modelos, pruebas y documentación. | [Ver repositorio](https://github.com/NucleoIA-labs/ideation-research-core) |
 
 ---
 
-## 🌱 **Contribuir**
+## 🧱 Estructura del ecosistema
 
-¡Toda contribución es bienvenida! Si deseas contribuir a uno de nuestros proyectos, por favor sigue este flujo:
-
-1. Crea una nueva rama para tu funcionalidad o corrección de errores.
-
-   ```bash
-   git checkout -b feature/nueva-funcionalidad
-   ```
-
-2. Desarrolla tu código, crea tests y asegúrate de que todo funcione correctamente.
-
-3. Haz commit y push de tu rama.
-
-   ```bash
-   git add .
-   git commit -m "Descripción de mi nueva funcionalidad"
-   git push origin feature/nueva-funcionalidad
-   ```
-
-4. Abre un Pull Request (PR) para que se revise tu contribución.
+```
+NucleoIA-labs/
+│
+├── bots/                   # Proyectos con lógica autónoma (trading, asistentes, fútbol)
+├── automation/             # Flujos y sistemas de automatización
+├── ai-agents/              # Agentes LLM y sistemas de razonamiento
+├── content/                # Generación de contenido automatizado
+├── utils/                  # Scripts y herramientas complementarias
+└── docs/                   # Documentación técnica, visión, pitch para inversores
+```
 
 ---
 
-## 📚 **Recursos Útiles**
+## 📣 ¿Quieres colaborar?
 
-- [Documentación oficial de Python](https://www.python.org/doc/)
-- [Guía de estilo PEP 8](https://peps.python.org/pep-0008/)
-- [GitHub Actions](https://docs.github.com/en/actions)
+¿Eres desarrollador, diseñador, especialista en IA o amante de la automatización?  
+Este es un proyecto vivo, en constante evolución. Si quieres aportar tu talento o colaborar con alguno de los módulos:
 
-¡Gracias por contribuir a **NucleoIA-labs**!
+📬 **Escríbenos a:** [hola@nucleoia-labs.com](mailto:hola@nucleoia-labs.com)  
+🤝 **Únete al canal de Telegram:** [@nucleoia_labs](https://t.me/nucleoia_labs)  
+💬 **Síguenos en Twitter/X:** [@NucleoIA_labs](https://twitter.com/NucleoIA_labs)
+
+---
+
+## 💼 ¿Eres inversor?
+
+Estamos construyendo un ecosistema preparado para escalar.  
+Si deseas conocer nuestro roadmap, impacto potencial o agendar una demo de nuestras soluciones, contáctanos directamente.
+
+📧 **admin@nucleoia-labs.com**
+
+---
+
+## 🛠️ Tecnologías y herramientas clave
+
+- **Python**, **JavaScript**, **n8n**, **Make**, **Node.js**, **LangChain**, **GPT**, **GitHub Actions**, **Fusion 360**, **Jupyter**, **Linux**
+- APIs: OpenAI, HuggingFace, YFinance, CCXT, etc.
+- Integraciones con: Google Sheets, Notion, Slack, Telegram, Discord, GitHub
+
+---
+
+## 📑 Licencia
+
+Este proyecto se publica bajo la licencia **MIT**.  
+Consulta el archivo `LICENSE` para más información.
+
+---
+
+## ⭐ Apoya el proyecto
+
+Si te gusta lo que estamos construyendo, ayúdanos con una estrella ⭐ en los repositorios o comparte nuestra visión.
+
+---
+
+**© 2025 NucleoIA-labs – Pensamiento, código e innovación en un solo núcleo.**
 
 
 
