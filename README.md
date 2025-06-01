@@ -1,147 +1,101 @@
-# 📘 NucleoIA-labs
+<!--
+────────────────────────────────────────────────────────────────────────────────────
+⚠️ IMPORTANTE:  
+  - Este archivo debe guardarse en un repositorio llamado exactamente “NucleoIA-labs”  
+    dentro de tu cuenta/organización “NucleoIA-labs”.  
+  - GitHub mostrará este contenido como portada principal de la organización.
+────────────────────────────────────────────────────────────────────────────────────
+-->
 
-_**Núcleo de plantillas, ejemplos y documentación para proyectos de IA, automatización y productividad.**_
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NucleoIA-labs/NucleoIA-labs/main/assets/logo-nucleoia.png" alt="NucleoIA-labs Logo" width="240" />
+</p>
 
-![Logo NucleoIA](assets/logo.png)  
-![Estado](https://img.shields.io/badge/estado-en--desarrollo-blue)  
-![Última actualización](https://img.shields.io/badge/actualizado-2025--06--XX-success)
+<h1 align="center">**NucleoIA-labs**</h1>
+<p align="center"><em><strong>Innovación en Inteligencia Artificial, Automatización y Productividad</strong></em></p>
 
----
-
-## 📖 Índice
-
-1. [Visión Ejecutiva](#-visión-ejecutiva)  
-2. [Tecnologías y Herramientas](#-tecnologías-y-herramientas)  
-3. [Ejemplos Destacados](#-ejemplos-destacados)  
-4. [Cómo Empezar](#-cómo-empezar)  
-5. [FAQ](#-faq)  
-6. [Contribuir](#-contribuir)  
-7. [Licencia](#-licencia)  
-8. [Equipo & Contacto](#-equipo--contacto)  
-
----
-
-## 🚀 Visión Ejecutiva
-
-NucleoIA-labs-Core ofrece un conjunto unificado de **plantillas**, **ejemplos** y **documentación** que facilitan el desarrollo de:
-
-- Bots de trading automáticos  
-- Agentes inteligentes para diferentes dominios (fútbol, impresión 3D, etc.)  
-- Flujos de afiliados para ingresos pasivos  
-- Automatizaciones en Google Sheets, Slack, Telegram, Make  
-- Integración con APIs de IA (OpenAI, Amazon, etc.)
-
-Nuestro objetivo es que **cualquier persona**, incluso sin experiencia previa, pueda clonar estos ejemplos y entenderlos paso a paso.
+<div align="center">
+  <img src="https://img.shields.io/github/stars/NucleoIA-labs/NucleoIA-labs?style=plastic&logo=github" alt="Stars en GitHub"/>
+  <img src="https://img.shields.io/github/forks/NucleoIA-labs/NucleoIA-labs?style=plastic&logo=github" alt="Forks en GitHub"/>
+  <img src="https://img.shields.io/github/issues/NucleoIA-labs/NucleoIA-labs?style=plastic&logo=github" alt="Issues abiertas"/>
+  <img src="https://img.shields.io/github/last-commit/NucleoIA-labs/NucleoIA-labs?style=plastic" alt="Último commit"/>
+</div>
 
 ---
 
-## 🛠 Tecnologías y Herramientas
+## 🚀 **NucleoIA-labs**: Impulsando el Futuro de la IA y la Automatización
 
-- **Lenguajes**: Python (3.8+), JavaScript (Node.js 14+)  
-- **Automatización**: Make (Integromat), GitHub Actions  
-- **Infraestructura como Código**: Terraform (para despliegue)  
-- **Bots y Mensajería**: Slack, Telegram, Discord  
-- **Gestor de Credenciales**: Bitwarden  
-- **Documentación**: Docusaurus (portal futuro), Markdown  
-- **Contenedores**: Docker (plantillas disponibles)  
+NucleoIA-labs es el **centro de innovación digital** que reúne proyectos punteros en el ámbito de la **inteligencia artificial**, **automatización** y **optimización de procesos**. A través de soluciones tecnológicas avanzadas y fáciles de implementar, **transformamos** tareas complejas en soluciones automatizadas que **ahorran tiempo, recursos y mejoran la productividad**.
+
+Con el **compromiso de ser un referente global** en el uso de IA y la automatización, nuestros proyectos están diseñados para **emprendedores, desarrolladores y empresas** que buscan optimizar sus procesos y aumentar su competitividad en un mundo digital en constante evolución.
 
 ---
 
-## 🔍 Ejemplos Destacados
+## 🏗️ **Proyectos Destacados**
 
-1. **Bot Trading Automático**  
-   - Repositorio: [bot-trading-automatico](https://github.com/NucleoIA-labs/bot-trading-automatico)  
-   - Descripción breve: Bot de trading algorítmico con backtesting, pruebas reales y despliegue en producción.
+NucleoIA-labs alberga proyectos revolucionarios que impulsan **la productividad y la innovación**. Aquí podrás encontrar ejemplos de **soluciones listas para ser implementadas** y **desarrollos continuos** que están cambiando la manera de trabajar. Explora cada uno de ellos y **únete a nuestra comunidad de creadores**.
 
-2. **Proyecto IA General**  
-   - Repositorio: [nucleo-ia](https://github.com/NucleoIA-labs/nucleo-ia)  
-   - Descripción: Ejemplo de modelo de IA (TensorFlow/PyTorch) para detección o predicción, paso a paso.
-
-3. **Agente de Fútbol IA**  
-   - Repositorio: [agente-futbol-ia](https://github.com/NucleoIA-labs/agente-futbol-ia)  
-   - Descripción: Agente que sugiere alineaciones y tácticas basadas en datos de jugadores.
-
-4. **Agente IA Impresión 3D**  
-   - Repositorio: [agente-ia-impresion3d](https://github.com/NucleoIA-labs/agente-ia-impresion3d)  
-   - Descripción: Agente que optimiza parámetros de impresión (temperatura, velocidad) para calidad.
-
-5. **Ingresos Pasivos Automatizados**  
-   - Repositorio: [ingresos-pasivos-automatizados](https://github.com/NucleoIA-labs/ingresos-pasivos-automatizados)  
-   - Descripción: Scripts de Make y Google Apps Script para generar flujos de afiliados y notificaciones.
-
-6. **Blog de Afiliados**  
-   - Repositorio: [afiliados-blog](https://github.com/NucleoIA-labs/afiliados-blog)  
-   - Descripción: Blog estático en GitHub Pages que publica automáticamente los top productos de Amazon cada día.
-
----
-
-## 🚀 Cómo Empezar
-
-1. **Clona este repositorio**  
-   ```bash
-   git clone https://github.com/NucleoIA-labs/nucleoia-labs-core.git
-   cd nucleoia-labs-core
-   ```
-
-2. **Instala las dependencias** (si vas a ejecutar código Python/Node)  
-   ```bash
-   npm install       # o pip install -r requirements.txt
-   ```
-
-3. **Copia el ejemplo de variables de entorno**  
-   ```bash
-   cp .env.example .env
-   # Edita .env con tus credenciales reales
-   ```
-
-4. **Explora la carpeta `docs/`**  
-   - `docs/introduccion.md`  
-   - `docs/arquitectura.md`  
-   - `docs/FAQ.md`  
-   - `docs/guias-usuarios.md`  
-   - `docs/roadmap.md`
-
-5. **Revisa los ejemplos en `examples/`**  
-   - `examples/bot-trading-automatico/`  
-   - `examples/ejemplo-automatizacion/`  
-   - `examples/ejemplo-pipeline-ia/`
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/NucleoIA-labs/NucleoIA-labs-Core">
+          <img src="https://img.shields.io/badge/CORE-Paquete%20Base-blue?logo=python&style=for-the-badge" />
+          <p><strong>NucleoIA-labs-Core</strong></p>
+          <p><em>El corazón de la IA y la automatización</em></p>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NucleoIA-labs/ingresos-pasivos-automatizados">
+          <img src="https://img.shields.io/badge/Automatizaci%C3%B3n-Ingresos%20Pasivos-green?logo=fastapi&style=for-the-badge" />
+          <p><strong>Ingresos Pasivos Automatizados</strong></p>
+          <p><em>Generación de ingresos sin intervención manual</em></p>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NucleoIA-labs/agente-futbol-ia">
+          <img src="https://img.shields.io/badge/Agente%20F%C3%BAtbol-IA-yellow?logo=pytorch&style=for-the-badge" />
+          <p><strong>Agente Fútbol IA</strong></p>
+          <p><em>Agente inteligente para análisis deportivo</em></p>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/NucleoIA-labs/bot-trading">
+          <img src="https://img.shields.io/badge/Trading-Bot%20Automatizado-red?logo=binance&style=for-the-badge" />
+          <p><strong>Bot Trading</strong></p>
+          <p><em>Automatización de trading con IA</em></p>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NucleoIA-labs/home-automation">
+          <img src="https://img.shields.io/badge/Home%20Automation-IoT-purple?logo=homeassistant&style=for-the-badge" />
+          <p><strong>Automatización del Hogar</strong></p>
+          <p><em>Gestiona tu hogar inteligente</em></p>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/NucleoIA-labs/datos-socios">
+          <img src="https://img.shields.io/badge/An%C3%A1lisis%20Datos-R%20%2B%20Python-blue?logo=python&style=for-the-badge" />
+          <p><strong>Analítica de Socios</strong></p>
+          <p><em>Análisis de datos para mejorar la gestión de clientes</em></p>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📖 FAQ
+## 🔧 **Cómo Empezar**
 
-Para resolver dudas comunes, consulta [docs/FAQ.md](docs/FAQ.md).
+Sigue estos pasos para empezar a usar, contribuir o colaborar con nuestros proyectos más destacados:
 
----
+### 1. Clona este repositorio:
 
-## 🤝 Contribuir
+```bash
+git clone https://github.com/NucleoIA-labs/NucleoIA-labs.git
+cd NucleoIA-labs
 
-1. Haz **fork** de este repositorio.  
-2. Crea una rama nueva:
-   ```bash
-   git checkout -b feature/mi-contribucion
-   ```  
-3. Haz tus cambios con commits descriptivos:
-   ```bash
-   git add .
-   git commit -m "feat: descripción de mi contribución"
-   ```  
-4. Empuja tu rama y abre un Pull Request contra `main`.  
-5. Etiqueta a los responsables para revisión.
-
----
-
-## 📝 Licencia
-
-Este proyecto utiliza la **MIT License**. Consulta [LICENSE.md](LICENSE.md).
-
----
-
-## 🤝 Equipo & Contacto
-
-- **Tu Nombre** – Cofundador y Desarrollador  
-- **NucleoIA-GOT (IA)** – Asistente experto en automatización y documentación  
-
-Para preguntas o colaboraciones, escríbenos a:  
-**hola@nucleoia-labs.com**
 
