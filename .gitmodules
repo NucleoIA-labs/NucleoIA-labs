@@ -1,0 +1,3 @@
+[submodule "plantilla-proyecto-base"]
+	path = plantilla-proyecto-base
+	url = https://github.com/NucleoIA-labs/nucleoia-proyecto-base.git
