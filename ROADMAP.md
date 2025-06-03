@@ -47,5 +47,20 @@ Crear un ecosistema modular, automatizado e inteligente que permita desarrollar:
 - Integraciones con APIs externas (Zapier, Airtable, HuggingFace)
 
 ---
+---
+
+## 🧩 Seguimiento
+
+- Última revisión: 2025-06-03
+- Próxima actualización estimada: 2025-06-30
+- Responsable de roadmap: @NucleoIA-labs
+
+---
+
+## 📌 Enlaces directos a módulos
+
+- [🔗 Minty Assistant funcional](https://github.com/NucleoIA-labs/minty-assistant)
+- [🔗 Bot de Trading Automático](https://github.com/NucleoIA-labs/bot-trading)
+- [🔗 Libros para Colorear con IA](https://github.com/NucleoIA-labs/libros-colorear)
 
 **Última actualización**: Junio 2025
