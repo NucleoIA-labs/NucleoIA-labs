@@ -19,6 +19,12 @@ for archivo in README.md ROADMAP.md CONTRIBUTING.md; do
   sed -i "s/NucleoIA-labs/nucleoia-labs/g" "$archivo"
 done
 
+# Si existe README_TEMPLATE.md, usarlo como base y renombrarlo
+if [ -f "README_TEMPLATE.md" ]; then
+  mv README_TEMPLATE.md README.md
+  sed -i "s/\[Nombre del Proyecto\]/$nombre_proyecto/g" README.md
+fi
+
 # Reinicializar como nuevo repositorio Git
 rm -rf .git
 git init
